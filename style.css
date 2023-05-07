@@ -6,7 +6,7 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(120deg, blue , rgb(224, 150, 13));
+    background: linear-gradient(120deg, blue , orange);
     display: flex;
     align-items: center;
     justify-content: center;
